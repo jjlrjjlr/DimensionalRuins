@@ -1,0 +1,15 @@
+package jjlr.dimensionalinv.proxy;
+
+//Local imports
+import jjlr.dimensionalinv.references;
+
+//Minecraft imports
+import net.minecraft.item.Item;
+
+//Forge imports
+import net.minecraftforge.client.model.ModelLoader;
+import net.minecraft.util.ResourceLocation;
+
+public class clientProxy {
+
+}

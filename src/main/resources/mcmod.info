@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dim_inv",
+  "name": "Dimensional Inventory",
+  "description": "Store and share items in the dimensional void of the End.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jjlr"],
+  "credits": "Created by jjlr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

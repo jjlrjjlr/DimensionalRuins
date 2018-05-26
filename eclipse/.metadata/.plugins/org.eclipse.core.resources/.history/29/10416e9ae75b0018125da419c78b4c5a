@@ -1,0 +1,14 @@
+package jjlr.dimensionalinv;
+
+public class references {
+
+	public static final String MODID = "dim_inv";
+	
+	public static final String NAME = "Dimensional Inventory";
+	
+	public static final String  = "";
+	
+	public static final String CLIENT_PROXY = "jjlr.dimensionalinv.proxy.client_proxy";
+	
+	public static final String COMMON_PROXY = "jjlr.dimensionalinv.proxy.common_proxy";
+}
